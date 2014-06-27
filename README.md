@@ -1,6 +1,11 @@
 # Handlebars API
 
-Simple API endpoint for rendering HandleBars.js templates.
+A Simple JSON REST API server for rendering handlebars templates
+
+## Start the server
+
+    bundle install
+    rackup
 
 ## Usage
 
